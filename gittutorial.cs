@@ -10,9 +10,9 @@ namespace ssksSimulation
     {
 
         public string _githubTutorial1 = "test";
-<<<<<<< HEAD
-        public string _githubTutorial2 = "test";
-=======
->>>>>>> parent of 089cf07 (gittutorial.csに変数を追加)
+
+        public gittutorial() {
+            Console.WriteLine("a");
+        }
     }
 }
