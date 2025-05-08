@@ -1,0 +1,13 @@
+C:\Users\sasak\source\repos\ssksSimulation\bin\Debug\ssksSimulation.exe.config
+C:\Users\sasak\source\repos\ssksSimulation\bin\Debug\ssksSimulation.exe
+C:\Users\sasak\source\repos\ssksSimulation\bin\Debug\ssksSimulation.pdb
+C:\Users\sasak\source\repos\ssksSimulation\obj\Debug\ssksSimulation.csproj.AssemblyReference.cache
+C:\Users\sasak\source\repos\ssksSimulation\obj\Debug\ssksSimulation.frmMain.resources
+C:\Users\sasak\source\repos\ssksSimulation\obj\Debug\ssksSimulation.Properties.Resources.resources
+C:\Users\sasak\source\repos\ssksSimulation\obj\Debug\ssksSimulation.csproj.GenerateResource.cache
+C:\Users\sasak\source\repos\ssksSimulation\obj\Debug\ssksSimulation.csproj.CoreCompileInputs.cache
+C:\Users\sasak\source\repos\ssksSimulation\obj\Debug\ssksSimulation.exe
+C:\Users\sasak\source\repos\ssksSimulation\obj\Debug\ssksSimulation.pdb
+C:\Users\sasak\source\repos\ssksSimulation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasak\source\repos\ssksSimulation\obj\Debug\ssksSimu.9DC0FAD7.Up2Date
+C:\Users\sasak\source\repos\ssksSimulation\bin\Debug\App.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ssksSimulation", "ssksSimulation.csproj", "{847463AA-AA6B-4E3E-98AA-BEAAB4E2D272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847463AA-AA6B-4E3E-98AA-BEAAB4E2D272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847463AA-AA6B-4E3E-98AA-BEAAB4E2D272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847463AA-AA6B-4E3E-98AA-BEAAB4E2D272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847463AA-AA6B-4E3E-98AA-BEAAB4E2D272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E7D335D-8243-4069-BA07-5A0D206411A8}
+	EndGlobalSection
+EndGlobal
