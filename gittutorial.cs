@@ -10,7 +10,6 @@ namespace ssksSimulation
     {
 
         public string _githubTutorial1 = "test";
-
         public string _githubTutorial2 = "test";
     }
 }
