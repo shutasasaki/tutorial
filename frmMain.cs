@@ -51,8 +51,12 @@ namespace ssksSimulation
 
         private void InitializeUIComponents()
         {
-            cboPort.Items.AddRange(SerialPort.GetPortNames());
-            cboPort.SelectedIndex = 0;
+            var ports = SerialPort.GetPortNames();
+            cboPort.Items.AddRange(ports);
+            if (ports.Length > 0)
+            {
+                cboPort.SelectedIndex = 0;
+            }
 
             var freqSetting = Enum.GetNames(typeof(FrequencyWeighting));
             cboFrequencyWeighting.Items.AddRange(freqSetting);
